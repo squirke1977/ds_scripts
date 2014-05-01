@@ -5,4 +5,4 @@
 #enable the OSX application firewall
 defaults write /Library/Preferences/com.apple.alf globalstate -int 1
 
-end 0
+exit 0
